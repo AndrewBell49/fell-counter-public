@@ -1,4 +1,5 @@
-# data got from www.hill-bagging.co.uk
+# Program written by Andrew Bell
+# Used to find all available mountains in the UK, from data got from www.hill-bagging.co.uk
 # UK fells have classifications (as shown below) included
 
 import re

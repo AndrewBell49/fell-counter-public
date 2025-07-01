@@ -1,3 +1,6 @@
+# Program written by Andrew Bell
+# Used to connect to Strava API, and download activities
+
 # Strava authentication got from: https://medium.com/swlh/using-python-to-connect-to-stravas-api-and-analyse-your-activities-dummies-guide-5f49727aac86
 
 # https://www.strava.com/oauth/authorize?client_id=YOUR_CLIENT_ID&response_type=code&redirect_uri=http://localhost/exchange_token&approval_prompt=force&scope=activity:read_all

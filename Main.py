@@ -1,3 +1,6 @@
+# Program written by Andrew Bell
+# Used to run the program, and give the user options on how to proceed
+
 from UpdateFells import UpdateFells
 from ManualBag import ManualBag
 from Analysis import Analysis

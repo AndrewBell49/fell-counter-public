@@ -1,3 +1,6 @@
+# Program written by Andrew Bell
+# Used to add manual climbs (when Strava wasn't used) 
+
 from datetime import datetime
 from Database import Database
 

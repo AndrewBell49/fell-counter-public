@@ -1,3 +1,6 @@
+# Program written by Andrew Bell
+# Used to recheck a particular activity
+
 from datetime import datetime
 import time
 from Database import Database

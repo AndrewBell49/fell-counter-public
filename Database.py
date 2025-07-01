@@ -1,3 +1,6 @@
+# Program written by Andrew Bell
+# Used to interact with the database
+
 from datetime import datetime
 import sqlite3
 

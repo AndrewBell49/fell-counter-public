@@ -1,10 +1,11 @@
+# Program written by Andrew Bell
+# Used to find all available mountains in a country, from an OSM file, and add these to the database
+# non-UK fells DO NOT have classifications included
+
 # data got from https://download.geofabrik.de
 # download the .osm.bz2 file, then extract it to the /Data folder
 
 from Database import Database
-
-# def saveFellToDB(fellID, name, ele, lat, lon, country):
-
 
 with Database() as db:
     fellID = db.GetLastFellID() + 1

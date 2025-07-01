@@ -1,3 +1,6 @@
+# Program written by Andrew Bell
+# Used to find all fells climbed in activities
+
 import math
 import os
 import re

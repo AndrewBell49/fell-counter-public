@@ -1,3 +1,6 @@
+# Program written by Andrew Bell
+# Used to analyse fell climbing data in the database
+
 from datetime import datetime, timedelta
 
 from Database import Database
